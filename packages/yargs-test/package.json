@@ -1,0 +1,14 @@
+{
+  "name": "yargs-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ts-mocha **/test/**/*.test.ts"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.12"
+  }
+}

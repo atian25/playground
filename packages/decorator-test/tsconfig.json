@@ -1,0 +1,6 @@
+{
+  "extends": "../../package.json",
+  "compilerOptions": {
+    "experimentalDecorators": true
+  },
+}
